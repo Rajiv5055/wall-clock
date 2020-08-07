@@ -1,0 +1,22 @@
+body {
+	background: linear-gradient(to right, rgb(17, 34, 120), rgb(22, 214, 227));
+	text-align: center;
+}
+
+#clock {
+	height: 100px;
+	width: 800px;
+	margin: auto;
+	font-size: 100px;
+    margin-top: 150px;
+    margin-bottom: 50px;
+	font-family: courier, monospace;
+	padding-top: 70px;
+	color: white;
+}
+
+a {
+	font-size: 30px;
+	text-decoration: none;
+	color: #2543EB;
+}
